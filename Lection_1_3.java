@@ -78,8 +78,6 @@ public class Lection_1_3 {
         int b=sc.nextInt();
         int c=sc.nextInt();
         int d=sc.nextInt();
-        if(sadasdasd)
-sadasddssfsdf
         }
     }
 
