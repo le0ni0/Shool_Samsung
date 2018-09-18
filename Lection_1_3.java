@@ -80,6 +80,6 @@ public class Lection_1_3 {
         int d=sc.nextInt();
         }
     }
-
+sdfsdf
 
 }
