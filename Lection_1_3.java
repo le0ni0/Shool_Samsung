@@ -79,7 +79,7 @@ public class Lection_1_3 {
         int c=sc.nextInt();
         int d=sc.nextInt();
         if(sadasdasd)
-sadasd
+sadasddssfsdf
         }
     }
 
